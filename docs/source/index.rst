@@ -1,22 +1,26 @@
-Welcome to T3's documentation! - this is my test
+Welcome to T3's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Tips and Tricks for Telemac (T3) is a cookbook meant to make life easier for new (and possibly more experienced) Telemac users. For the time being it is focused on  Telemac2D but other applications will come in time.
+
+It will include a set of instructions to set up a new model, run simulations and process the results to obtain a viewer-friendly plots. Most of the documentation will rely on existing tools (all credit to these) and some Python scripts that have been created for this purpose.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This documentation and most of the Python code are under active development.
 
 Contents
 --------
 
 .. toctree::
 
+   Scope
+   Pre-processing
+   Running simulations
+   Post-processing
    usage
    api
