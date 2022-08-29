@@ -1,4 +1,4 @@
-Welcome to T3's documentation!
+Welcome to T3's documentation! - this is my test
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
